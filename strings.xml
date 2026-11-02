@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Myapp</string>
+
+    <string name="select_country">Select Country</string>
+
+    <string-array name="country_list">
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>China</item>
+        <item>USA</item>
+        <item>UK</item>
+    </string-array>
+
+</resources>
